@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Resultado do Calculo</title>
+		<title>Resultado do Calculo2</title>
 		<style>
 			body{background: #c4c4c4;}
 			fieldset{
